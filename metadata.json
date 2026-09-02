@@ -1,0 +1,6 @@
+{
+  "name": "ISP Pulse - Gestão Comercial & Atendimento para ISPs",
+  "description": "Plataforma inteligente de CRM, diagnóstico de conexão integrado, consultoria de processos e inteligência comercial para provedores de internet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
